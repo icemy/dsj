@@ -1,0 +1,1271 @@
+[{
+		"channel_id": 2454,
+		"channel_name": "中视",
+		"icon_url": "http://icon.91kds.com/tb/twzs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twzs&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twzs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twzs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twzs&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twzs"
+	},
+	{
+		"channel_id": 2455,
+		"channel_name": "中视菁采",
+		"icon_url": "http://icon.91kds.com/tb/twzs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twzsjc&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twzsjc&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twzsjc&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twzsjc&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2456,
+		"channel_name": "中视经典",
+		"icon_url": "http://icon.91kds.com/tb/twzs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twzsjd&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twzsjd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twzsjd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twzsjd&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2457,
+		"channel_name": "华视",
+		"icon_url": "http://icon.91kds.com/tb/twhs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twhs&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twhs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twhs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twhs&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twhs"
+	},
+	{
+		"channel_id": 2458,
+		"channel_name": "华视新闻",
+		"icon_url": "http://icon.91kds.com/tb/twhs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twhsxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twhsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twhsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twhsxw&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2459,
+		"channel_name": "民视",
+		"icon_url": "http://icon.91kds.com/tb/twms.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twms&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twms&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twms&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twms&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twms"
+	},
+	{
+		"channel_id": 2460,
+		"channel_name": "民视第一",
+		"icon_url": "http://icon.91kds.com/tb/twms.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twmsdy&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twmsdy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twmsdy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twmsdy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2461,
+		"channel_name": "民视新闻",
+		"icon_url": "http://icon.91kds.com/tb/twms.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twmsxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twmsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twmsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twmsxw&pwd=91kds",
+			"http://60.199.188.6/HLS/WG_FTV-N/index.m3u8",
+			"https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8",
+			"http://60.199.188.120/HLS/WG_FTV-N/index.m3u8"
+		],
+		"types": "3",
+		"path": "ikds#twmsxw"
+	},
+	{
+		"channel_id": 2462,
+		"channel_name": "民视台湾",
+		"icon_url": "http://icon.91kds.com/tb/twms.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twmstw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twmstw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twmstw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twmstw&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2463,
+		"channel_name": "台视",
+		"icon_url": "http://icon.91kds.com/tb/twts.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twts&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twts&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twts&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twts&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twts"
+	},
+	{
+		"channel_id": 2464,
+		"channel_name": "台视财经",
+		"icon_url": "http://icon.91kds.com/tb/twts.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twtscj&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twtscj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twtscj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twtscj&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2465,
+		"channel_name": "台视新闻",
+		"icon_url": "http://icon.91kds.com/tb/twts.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://live.italkdd.com/ts142/channel_065.m3u8",
+		"second_url": [],
+		"types": "3"
+	},
+	{
+		"channel_id": 2466,
+		"channel_name": "台视综合",
+		"icon_url": "http://icon.91kds.com/tb/twts.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twtszh&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twtszh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twtszh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twtszh&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2467,
+		"channel_name": "壹电视新闻",
+		"icon_url": "http://icon.91kds.com/tb/twyds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twydsxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twydsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twydsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twydsxw&pwd=91kds",
+			"http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8",
+			"http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8",
+			"http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2468,
+		"channel_name": "非凡新闻",
+		"icon_url": "http://icon.91kds.com/tb/twff.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twffxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twffxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twffxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twffxw&pwd=91kds",
+			"http://60.199.188.6/HLS/WG_USTV-N/index.m3u8",
+			"http://60.199.188.120/HLS/WG_USTV-N/index.m3u8"
+		],
+		"types": "3",
+		"path": "ikds#twffxw"
+	},
+	{
+		"channel_id": 2469,
+		"channel_name": "东森亚洲新闻",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twklds1.m3u8?id=twdsyzxw&pwd=91kds",
+		"second_url": [],
+		"types": "3"
+	},
+	{
+		"channel_id": 2470,
+		"channel_name": "东森亚洲卫视",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://eac4dee42679bd8827aea7c8aeda5c04a2ed80e7",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twdsyz&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2471,
+		"channel_name": "东森新闻",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdsxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdsxw&pwd=91kds",
+			"http://60.199.188.6/HLS/WG_ETTV-N/index.m3u8",
+			"http://60.199.188.120/HLS/WG_ETTV-N/index.m3u8",
+			"kdsvod://twklds://c1540866ec1f82581cd2b059be976004401bd985",
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twdsxw&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twdsxw"
+	},
+	{
+		"channel_id": 2472,
+		"channel_name": "东森综合",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdszh&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdszh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdszh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdszh&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2473,
+		"channel_name": "东森戏剧",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdsxj&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdsxj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdsxj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdsxj&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2474,
+		"channel_name": "东森幼幼",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdsyy&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdsyy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdsyy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdsyy&pwd=91kds",
+			"http://live.italkdd.com/ts133/channel_032.m3u8",
+			"kdsvod://twklds://a999d4ded88154371f380e8564cfe33ed0d96f35",
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twdsyy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2475,
+		"channel_name": "东森财经新闻",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdscj&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdscj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdscj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdscj&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twdscj"
+	},
+	{
+		"channel_id": 2476,
+		"channel_name": "东森洋片",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdsyp&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdsyp&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdsyp&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdsyp&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2477,
+		"channel_name": "东森电影",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdsdy&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdsdy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdsdy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdsdy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2478,
+		"channel_name": "东森美洲",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://live.italkdd.com/ts137/channel_081.m3u8",
+		"second_url": [],
+		"types": "3"
+	},
+	{
+		"channel_id": 2479,
+		"channel_name": "东森新闻美洲",
+		"icon_url": "http://icon.91kds.com/tb/twds.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://live.italkdd.com/ts137/channel_080.m3u8",
+		"second_url": [],
+		"types": "3"
+	},
+	{
+		"channel_id": 2480,
+		"channel_name": "TVBS新闻",
+		"icon_url": "http://icon.91kds.com/tb/twtvbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twtvbsxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twtvbsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twtvbsxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twtvbsxw&pwd=91kds",
+			"http://60.199.188.6/HLS/WG_TVBS-N/index.m3u8",
+			"http://60.199.188.120/HLS/WG_TVBS-N/index.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2481,
+		"channel_name": "中天新闻",
+		"icon_url": "http://icon.91kds.com/tb/twzt.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twztxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twztxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twztxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twztxw&pwd=91kds",
+			"http://veetle.com/index.m3u8/hls/streamMbrFast/520c3ec32200c_/stream.m3u"
+		],
+		"types": "3",
+		"path": "ikds#twztxw"
+	},
+	{
+		"channel_id": 2482,
+		"channel_name": "中天综合",
+		"icon_url": "http://icon.91kds.com/tb/twzt.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twztzh&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twztzh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twztzh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twztzh&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twztzh"
+	},
+	{
+		"channel_id": 2483,
+		"channel_name": "中天娱乐",
+		"icon_url": "http://icon.91kds.com/tb/twzt.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twztyl&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twztyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twztyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twztyl&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2484,
+		"channel_name": "纬来电影",
+		"icon_url": "http://icon.91kds.com/tb/twwl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://458bc3d1c71d0686277349fcecdca64a885eaf00",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twwldy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2485,
+		"channel_name": "纬来体育",
+		"icon_url": "http://icon.91kds.com/tb/twwl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://20001e0a78f919a7e2b422924a6d12da36fb1091",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twwlty&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2486,
+		"channel_name": "纬来戏剧",
+		"icon_url": "http://icon.91kds.com/tb/twwl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://6d13f716b9276dafd3ee352034b93744ef04d839",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twwlxj&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2487,
+		"channel_name": "纬来育乐",
+		"icon_url": "http://icon.91kds.com/tb/twwl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://3ed254d40c7228374bf63aabc372f882bed0ab04",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twwlyl&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2488,
+		"channel_name": "纬来综合",
+		"icon_url": "http://icon.91kds.com/tb/twwl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://70888399a6e144231fe96f8e89806aa49a030b7d",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twwlzh&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2489,
+		"channel_name": "三立台湾",
+		"icon_url": "http://icon.91kds.com/tb/twsl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twsltw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twsltw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twsltw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twsltw&pwd=91kds",
+			"http://live.italkdd.com/ts137/channel_082.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2490,
+		"channel_name": "三立新闻",
+		"icon_url": "http://icon.91kds.com/tb/twsl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twslxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twslxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twslxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twslxw&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2491,
+		"channel_name": "八大第一",
+		"icon_url": "http://icon.91kds.com/tb/twbd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twbddy&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twbddy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twbddy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twbddy&pwd=91kds",
+			"kdsvod://twklds://40deac9c5fe9d41e287bb9115f1f3b27d3847ed4",
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbddy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2492,
+		"channel_name": "八大戏剧",
+		"icon_url": "http://icon.91kds.com/tb/twbd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twbdxj&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twbdxj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twbdxj&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twbdxj&pwd=91kds",
+			"kdsvod://twklds://2df1e64930e331efd5665d4dc348f344c3b8f991",
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbdxj&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2493,
+		"channel_name": "八大娱乐",
+		"icon_url": "http://icon.91kds.com/tb/twbd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twbdyl&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twbdyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twbdyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twbdyl&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2494,
+		"channel_name": "八大综合",
+		"icon_url": "http://icon.91kds.com/tb/twbd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twbdzh&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twbdzh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twbdzh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twbdzh&pwd=91kds",
+			"kdsvod://twklds://daeb872281299bf4e9a221edb64fa3eddd50cb0e",
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbdzh&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2495,
+		"channel_name": "博斯电玩",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://dbb1891937464468918b02f9259a900312d6e01c",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbsdw&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2496,
+		"channel_name": "博斯魅力",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://27c60fc1183f96bb813ca26879b160cb9bec0c99",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbsml&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2497,
+		"channel_name": "博斯网球",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://6f78e3a2cd845be6da276265894a68ad6b27d6e8",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbswq&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2498,
+		"channel_name": "博斯无限",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://870d7e82ca38073824843a0d029afa5e346427ed",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbswx&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2499,
+		"channel_name": "博斯运动",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://008748a8b1b24092e4bb4d6a41f3a6533b19c9a0",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbsyd&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2500,
+		"channel_name": "博斯足球",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://60539ceb94cf929fc392f4319adb880b0d203e16",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbszq&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2501,
+		"channel_name": "博斯高球",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://c1557208f91fd098c2bd8e786f73a9c39f08d1dd",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbsgq1&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2502,
+		"channel_name": "博斯高球2",
+		"icon_url": "http://icon.91kds.com/tb/twbs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://2c3c721ce707763b46b065b575b56dc73707e644",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbsgq2&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2503,
+		"channel_name": "番薯TV",
+		"icon_url": "http://icon.91kds.com/tb/twfstv.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin",
+		"second_url": [
+			"http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2504,
+		"channel_name": "中旺电视",
+		"icon_url": "http://icon.91kds.com/tb/twzw.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://live.italkdd.com/ts142/channel_066.m3u8",
+		"second_url": [],
+		"types": "3"
+	},
+	{
+		"channel_id": 2505,
+		"channel_name": "原视",
+		"icon_url": "http://icon.91kds.com/tb/twys.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twys&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twys&pwd=91kds",
+			"http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/index_1400_av-p.m3u8?sd=10&rebase=on",
+			"http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/index_3000_av-p.m3u8?sd=10&rebase=on",
+			"http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/index_800_av-p.m3u8?sd=10&rebase=on",
+			"http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/index_400_av-p.m3u8?sd=10&rebase=on",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twys&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twys&pwd=91kds",
+			"http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b800000.m3u8",
+			"http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b1400000.m3u8",
+			"http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b400000.m3u8",
+			"http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2506,
+		"channel_name": "公视1",
+		"icon_url": "http://icon.91kds.com/tb/twgs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twgs&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twgs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twgs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twgs&pwd=91kds"
+		],
+		"types": "3",
+		"path": "ikds#twgs"
+	},
+	{
+		"channel_id": 2507,
+		"channel_name": "公视2",
+		"icon_url": "http://icon.91kds.com/tb/twgs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twgs2&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twgs2&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twgs2&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twgs2&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2508,
+		"channel_name": "公视3",
+		"icon_url": "http://icon.91kds.com/tb/twgs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twgs3&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twgs3&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twgs3&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twgs3&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2509,
+		"channel_name": "Boomerang卡通台",
+		"icon_url": "http://icon.91kds.com/tb/twbrkt.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twbrkt&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twbrkt&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twbrkt&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twbrkt&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2510,
+		"channel_name": "动物星球",
+		"icon_url": "http://icon.91kds.com/tb/twdwxq.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdwxq&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdwxq&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdwxq&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdwxq&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2511,
+		"channel_name": "华纳电影",
+		"icon_url": "http://icon.91kds.com/tb/twhntv.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twhntv&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twhntv&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twhntv&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twhntv&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2512,
+		"channel_name": "居家乐活",
+		"icon_url": "http://icon.91kds.com/tb/twjjlh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twjjlh&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twjjlh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twjjlh&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twjjlh&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2513,
+		"channel_name": "龙翔电影",
+		"icon_url": "http://icon.91kds.com/tb/twlx.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twlxdy&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twlxdy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twlxdy&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twlxdy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2514,
+		"channel_name": "亚洲美食",
+		"icon_url": "http://icon.91kds.com/tb/twyzms.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twyzms&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twyzms&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twyzms&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twyzms&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2515,
+		"channel_name": "爱尔达体育",
+		"icon_url": "http://icon.91kds.com/tb/twelta.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twaedty&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twaedty&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twaedty&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twaedty&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2516,
+		"channel_name": "爱尔达育乐",
+		"icon_url": "http://icon.91kds.com/tb/twelta.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twaedyl&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twaedyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twaedyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twaedyl&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2517,
+		"channel_name": "Baby Fisrt",
+		"icon_url": "http://icon.91kds.com/tb/twbbf.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://6e898c8a45348e9f7b0d1832e65511f59bb1f7ff",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twbbf&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2518,
+		"channel_name": "梅迪奇艺术台",
+		"icon_url": "http://icon.91kds.com/tb/twmdq.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://8ff078a3ff3c7553a92a94564d45e1e2b167a15b",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twmdq&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2519,
+		"channel_name": "Z频道",
+		"icon_url": "http://icon.91kds.com/tb/twzpd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twzpd&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twzpd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twzpd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twzpd&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2520,
+		"channel_name": "DMAX",
+		"icon_url": "http://icon.91kds.com/tb/twdmax.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twdmax&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twdmax&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twdmax&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twdmax&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2521,
+		"channel_name": "ANIMAX",
+		"icon_url": "http://icon.91kds.com/tb/twanimax.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twanimax&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twanimax&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twanimax&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twanimax&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2522,
+		"channel_name": "年代新闻",
+		"icon_url": "http://icon.91kds.com/tb/twnd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twndxw&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twndxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twndxw&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twndxw&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2523,
+		"channel_name": "旅游生活",
+		"icon_url": "http://icon.91kds.com/tb/twlysh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twtlc&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twtlc&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twtlc&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twtlc&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2524,
+		"channel_name": "国家地理",
+		"icon_url": "http://icon.91kds.com/tb/twgjdl.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twgjdl&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twgjdl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twgjdl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twgjdl&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2525,
+		"channel_name": "探索频道",
+		"icon_url": "http://icon.91kds.com/tb/twtspd.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twtspd&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twtspd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twtspd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twtspd&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2526,
+		"channel_name": "FOX体育3",
+		"icon_url": "http://icon.91kds.com/tb/twfox.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://220.130.149.128:19358/live/ch3-1/playlist.m3u8",
+		"second_url": [],
+		"types": "3"
+	},
+	{
+		"channel_id": 2527,
+		"channel_name": "人间卫视",
+		"icon_url": "http://icon.91kds.com/tb/twrj.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://4052d673561323aa58935a9f6214b2c65415e35d",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twrjws&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2528,
+		"channel_name": "客家卫视",
+		"icon_url": "http://icon.91kds.com/tb/twkjws.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twkjws&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twkjws&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twkjws&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twkjws&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2529,
+		"channel_name": "亚洲旅游",
+		"icon_url": "http://icon.91kds.com/tb/twyzly.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://live.italkdd.com/ts027/channel_036.m3u8",
+		"second_url": [
+			"kdsvod://twklds://909ef3187d988b309a31269fc09fc795fb5e90ea",
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twyzly&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2530,
+		"channel_name": "寰宇新闻",
+		"icon_url": "http://icon.91kds.com/tb/twhyzh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://f1ff06324cc20ec9c24f978b7f7c20ed93c3cb6d",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twhyxw&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2531,
+		"channel_name": "寰宇新闻2",
+		"icon_url": "http://icon.91kds.com/tb/twhyzh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://e62f109dd41cd6ca5f264ab88c1330ab62db1f87",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twhyxw2&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2532,
+		"channel_name": "龙华电影",
+		"icon_url": "http://icon.91kds.com/tb/twlh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://f9bd85aabd5d74a05aac19dd5e8999b60fce773b",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twlhdy&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2533,
+		"channel_name": "龙华卡通",
+		"icon_url": "http://icon.91kds.com/tb/twlh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://c3bd85e3767f9a07aeac05ab2dd4112210b7fd5f",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twlhkt&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2534,
+		"channel_name": "龙华偶像",
+		"icon_url": "http://icon.91kds.com/tb/twlh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://baa3aca46c3c5e3b225640eb043444bab812ad19",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twlhox&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2535,
+		"channel_name": "龙华日韩",
+		"icon_url": "http://icon.91kds.com/tb/twlh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://36d3534509a6bedbfca261496fca1d1f450e34c7",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twlhrh&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2536,
+		"channel_name": "龙华戏剧",
+		"icon_url": "http://icon.91kds.com/tb/twlh.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "kdsvod://twklds://49295b97078b8081b861e6bc370280181d47cdb2",
+		"second_url": [
+			"http://v.91kds.com/b7/twklds1.m3u8?id=twlhxj&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2537,
+		"channel_name": "宏观卫视",
+		"icon_url": "http://icon.91kds.com/tb/twhg.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://stream.cdn.twgate.net/live/ccdntw/mactvlive_3/palylist.m3u8",
+		"second_url": [
+			"rtmp://stream.cdn.twgate.net/live/ccdntw/mactvlive_3",
+			"http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2538,
+		"channel_name": "好消息1台",
+		"icon_url": "http://icon.91kds.com/tb/twhxx.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8",
+		"second_url": [
+			"http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8",
+			"http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2539,
+		"channel_name": "好消息2台",
+		"icon_url": "http://icon.91kds.com/tb/twhxx.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twhxx2&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twhxx2&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twhxx2&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twhxx2&pwd=91kds",
+			"http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8",
+			"http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8",
+			"http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2540,
+		"channel_name": "希望电视台",
+		"icon_url": "http://icon.91kds.com/tb/twxwtv.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on",
+		"second_url": [
+			"http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8?sd=10&rebase=on",
+			"http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2541,
+		"channel_name": "超视",
+		"icon_url": "http://icon.91kds.com/tb/twcs.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twcs&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twcs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twcs&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twcs&pwd=91kds",
+			"http://live.italkdd.com/ts137/channel_079.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2542,
+		"channel_name": "AXN",
+		"icon_url": "http://icon.91kds.com/tb/twaxn.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twaxn&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twaxn&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twaxn&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twaxn&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2543,
+		"channel_name": "国兴卫视",
+		"icon_url": "http://icon.91kds.com/tb/twgxws.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twgxws&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twgxws&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twgxws&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twgxws&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2544,
+		"channel_name": "信吉电视",
+		"icon_url": "http://icon.91kds.com/tb/twxj.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "rtmp://220.130.238.68:1935/live/livestream3",
+		"second_url": [
+			"http://220.130.241.203/live/session0.m3u8"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2545,
+		"channel_name": "韩国娱乐台",
+		"icon_url": "http://icon.91kds.com/tb/twhgyl.png",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twhgyl&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twhgyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twhgyl&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twhgyl&pwd=91kds"
+		],
+		"types": "3"
+	},
+	{
+		"channel_id": 2546,
+		"channel_name": "FOX HD",
+		"icon_url": "http://icon.91kds.com/tb/twfoxtv.jpg",
+		"province": "台湾",
+		"mode": "SD",
+		"url": "http://v.91kds.com/b7/twltv.m3u8?id=twfoxhd&pwd=91kds",
+		"second_url": [
+			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=twfoxhd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=twfoxhd&pwd=91kds",
+			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=twfoxhd&pwd=91kds"
+		],
+		"types": "3"
+	}
+]
