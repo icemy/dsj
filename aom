@@ -1,0 +1,106 @@
+[{
+        "channel_id": 2547,
+        "channel_name": "澳视澳门",
+        "icon_url": "http://icon.91kds.com/tb/amtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8",
+        "second_url": [
+            "http://live4.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8"
+        ],
+        "types": "3"
+    },
+    {
+        "channel_id": 2548,
+        "channel_name": "澳视葡文",
+        "icon_url": "http://icon.91kds.com/tb/amtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8",
+        "second_url": [
+            "http://live4.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8"
+        ],
+        "types": "3"
+    },
+    {
+        "channel_id": 2549,
+        "channel_name": "澳视卫星",
+        "icon_url": "http://icon.91kds.com/tb/amtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8",
+        "second_url": [
+            "http://live4.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8"
+        ],
+        "types": "3"
+    },
+    {
+        "channel_id": 2550,
+        "channel_name": "澳视体育",
+        "icon_url": "http://icon.91kds.com/tb/amtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8",
+        "second_url": [
+            "http://live4.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8"
+        ],
+        "types": "3"
+    },
+    {
+        "channel_id": 2551,
+        "channel_name": "澳视资讯",
+        "icon_url": "http://icon.91kds.com/tb/amtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8",
+        "second_url": [
+            "http://live4.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8"
+        ],
+        "types": "3"
+    },
+    {
+        "channel_id": 2552,
+        "channel_name": "澳视高清",
+        "icon_url": "http://icon.91kds.com/tb/amtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8",
+        "second_url": [
+            "http://live4.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8"
+        ],
+        "types": "3"
+    },
+    {
+        "channel_id": 2553,
+        "channel_name": "澳门莲花",
+        "icon_url": "http://icon.91kds.com/tb/amlhtv.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live-hls.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8@@Referer=http://www.lotustv.cc/index.m3u8/index/live.html@@",
+        "second_url": [],
+        "types": "3"
+    },
+    {
+        "channel_id": 2554,
+        "channel_name": "澳门卫视",
+        "icon_url": "http://icon.91kds.com/tb/amayws.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live.mastvnet.com/iVx460D/500/live.m3u8",
+        "second_url": [],
+        "types": "3",
+        "path": "ikdslbk#amws"
+    },
+    {
+        "channel_id": 2555,
+        "channel_name": "澳亚卫视",
+        "icon_url": "http://icon.91kds.com/tb/amayws.jpg",
+        "province": "澳门",
+        "mode": "SD",
+        "url": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8",
+        "second_url": [
+            "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+        ],
+        "types": "3",
+        "path": "ikdslbk#amayws"
+    }]
