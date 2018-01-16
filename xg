@@ -1,0 +1,310 @@
+ [{
+ 		"channel_id": 98,
+ 		"channel_name": "凤凰中文HD",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8",
+ 		"second_url": [],
+ 		"types": "3|9",
+ 		"path": "ikds#fhzwhd"
+ 	},
+ 	{
+ 		"channel_id": 99,
+ 		"channel_name": "凤凰资讯HD",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://183.251.61.211/PLTV/88888888/224/3221225901/index.m3u8",
+ 		"second_url": [],
+ 		"types": "3|9",
+ 		"path": "ikds#fhzxhd"
+ 	},
+ 	{
+ 		"channel_id": 2431,
+ 		"channel_name": "香港卫视HD",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+ 		"second_url": [
+ 			"rtmp://zhibo.hkstv.tv/livestream/mutfysrq",
+ 			"rtmp://113.106.87.7/livestream/mutfysrq"
+ 		],
+ 		"types": "3",
+ 		"path": "ikds#xgws"
+ 	},
+ 	{
+ 		"channel_id": 2432,
+ 		"channel_name": "翡翠台",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/gdyx.m3u8?id=xgtvbfc&pwd=91kds",
+ 		"second_url": [
+ 			"kdsvod://gdyx://http://27.36.62.161:8060/live/xgfeicui_1500.m3u8",
+ 			"http://v.91kds.com/b7/zhanqi.m3u8?id=xgtvbfc&pwd=91kds"
+ 		],
+ 		"types": "3",
+ 		"path": "ikdslbk#xgtvbfc"
+ 	},
+ 	{
+ 		"channel_id": 2433,
+ 		"channel_name": "明珠台",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/gdyx.m3u8?id=xgtvbmz&pwd=91kds",
+ 		"second_url": [
+ 			"kdsvod://gdyx://http://27.36.62.161:8060/live/xgmingzhu_1500.m3u8"
+ 		],
+ 		"types": "3",
+ 		"path": "ikdslbk#xgtvbmz"
+ 	},
+ 	{
+ 		"channel_id": 2434,
+ 		"channel_name": "娱乐新闻台",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/tvb1.m3u8?id=enews&bt=3&pwd=91kds",
+ 		"second_url": [
+ 			"http://v.91kds.com/b7/tvb1.m3u8?id=enews&bt=2&pwd=91kds",
+ 			"http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil",
+ 			"http://v.91kds.com/b7/tvb1.m3u8?id=enews&bt=1&pwd=91kds",
+ 			"http://v.91kds.com/b7/tvb1.m3u8?id=enews&bt=4&pwd=91kds"
+ 		],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2435,
+ 		"channel_name": "TVB星河",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/zhanqi.m3u8?id=xgtvbxh&pwd=91kds",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2436,
+ 		"channel_name": "TVB8",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8",
+ 		"second_url": [
+ 			"http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8",
+ 			"http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-02.m3u8",
+ 			"http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/index.m3u8",
+ 			"http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-03.m3u8",
+ 			"http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-04.m3u8"
+ 		],
+ 		"types": "3",
+ 		"path": "ikds#xgtvb8"
+ 	},
+ 	{
+ 		"channel_id": 2437,
+ 		"channel_name": "NOW华剧台",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://live.italkdd.com/ts027/channel_034.m3u8",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2438,
+ 		"channel_name": "NOW综合",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://live.italkdd.com/ts027/channel_033.m3u8",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2439,
+ 		"channel_name": "凤凰中文",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/c7/pptv.m3u8?id=fhzw&pwd=91kds",
+ 		"second_url": [
+ 			"kdsvod://gdyx://http://27.36.62.161:8060/live/fhzw_1500.m3u8",
+ 			"http://119.39.49.72:6610/001/2/ch00000090990000001039/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002",
+ 			"http://v.91kds.com/b7/gdyx.m3u8?id=fhzw&pwd=91kds",
+ 			"http://v.91kds.com/b7/gehua.m3u8?id=fhzw&pwd=91kds",
+ 			"kdsvod://twklds://19f1a203a616cb696622fd1b7242f195a7be6678",
+ 			"http://v.91kds.com/b7/twklds1.m3u8?id=fhzw&pwd=91kds",
+ 			"http://hnlh.chinashadt.com:1935/live/stream:fhws.stream/playlist.m3u8"
+ 		],
+ 		"types": "3",
+ 		"path": "ikdslbk#fhzw"
+ 	},
+ 	{
+ 		"channel_id": 2440,
+ 		"channel_name": "凤凰资讯",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/c7/pptv.m3u8?id=fhzx&pwd=91kds",
+ 		"second_url": [
+ 			"http://live.italkdd.com/ts027/channel_057.m3u8",
+ 			"http://119.39.49.72:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002",
+ 			"http://v.91kds.com/b7/gehua.m3u8?id=fhzx&pwd=91kds",
+ 			"http://tvindexlivephone.cmjx.ysten.com:8080/ysten-businessmbble/live/fhzixun/1.m3u8@@User-Agent=###MOBILE@@"
+ 		],
+ 		"types": "3",
+ 		"path": "ikdslbk#fhzx"
+ 	},
+ 	{
+ 		"channel_id": 2441,
+ 		"channel_name": "凤凰美洲",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://live.italkdd.com/ts027/channel_056.m3u8",
+ 		"second_url": [],
+ 		"types": "3",
+ 		"path": "ikds#fhmz"
+ 	},
+ 	{
+ 		"channel_id": 2442,
+ 		"channel_name": "MTV中国",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/gdyx.m3u8?id=xgmtv&pwd=91kds",
+ 		"second_url": [
+ 			"kdsvod://gdyx://http://27.36.62.161:8060/live/MTV_1500.m3u8"
+ 		],
+ 		"types": "3",
+ 		"path": "ikdslbk#xgmtv"
+ 	},
+ 	{
+ 		"channel_id": 2443,
+ 		"channel_name": "香港电视",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/hktv.m3u8?&pwd=91kds",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2444,
+ 		"channel_name": "港台电视31",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8",
+ 		"second_url": [
+ 			"http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8",
+ 			"http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8",
+ 			"http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_216_av-b.m3u8"
+ 		],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2445,
+ 		"channel_name": "港台电视32",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8",
+ 		"second_url": [
+ 			"http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8",
+ 			"http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8",
+ 			"http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_432_av-b.m3u8",
+ 			"http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_216_av-b.m3u8"
+ 		],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2446,
+ 		"channel_name": "香港卫视",
+ 		"icon_url": "http://icon.91kds.com/tb/xgws.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "rtmp://live.hkstv.hk.lxdns.com/live/hks",
+ 		"second_url": [
+ 			"http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8",
+ 			"http://zhibo.hkstv.tv/livestream/yh2ukfjy/playlist.m3u8",
+ 			"rtmp://zhibo.hkstv.tv/livestream/yh2ukfjy",
+ 			"http://v.91kds.com/b7/ccdf.m3u8?id=xgws&pwd=91kds",
+ 			"rtmp://113.106.87.7/livestream/yh2ukfjy"
+ 		],
+ 		"types": "3",
+ 		"path": "ikds#xgws"
+ 	},
+ 	{
+ 		"channel_id": 2447,
+ 		"channel_name": "健康卫视",
+ 		"icon_url": "http://icon.91kds.com/tb/xgjkws.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://live.jkwshk.tv/AppName/StreamName.m3u8",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2448,
+ 		"channel_name": "亚洲联合卫视",
+ 		"icon_url": "http://icon.91kds.com/tb/xgyzlhws.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8",
+ 		"second_url": [
+ 			"http://vod.unbtv.tv/app_2/ls_3.stream/playlist.m3u8"
+ 		],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2449,
+ 		"channel_name": "亚太第一卫视",
+ 		"icon_url": "http://icon.91kds.com/tb/xgytdy.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "rtmp://v1.one-tv.com:1935/live/mpegts.stream",
+ 		"second_url": [
+ 			"http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8"
+ 		],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2450,
+ 		"channel_name": "星空卫视",
+ 		"icon_url": "http://icon.91kds.com/tb/xgxkws.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://v.91kds.com/b7/twltv.m3u8?id=xgxkws&pwd=91kds",
+ 		"second_url": [
+ 			"http://v.91kds.com/b7/twltv.m3u8?ip=0&id=xgxkws&pwd=91kds",
+ 			"http://v.91kds.com/b7/twltv.m3u8?ip=1&id=xgxkws&pwd=91kds",
+ 			"http://v.91kds.com/b7/twltv.m3u8?ip=2&id=xgxkws&pwd=91kds",
+ 			"http://v.91kds.com/b7/gdyx.m3u8?id=xgxkws&pwd=91kds",
+ 			"kdsvod://gdyx://http://27.36.62.161:8060/live/xingkong_1500.m3u8"
+ 		],
+ 		"types": "3",
+ 		"path": "ikdslbk#xgxkws"
+ 	},
+ 	{
+ 		"channel_id": 2451,
+ 		"channel_name": "中华卫视神州台",
+ 		"icon_url": "http://icon.91kds.com/tb/xgzhws.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://pull.kapad.cn/live/livechtv/playlist.m3u8",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2452,
+ 		"channel_name": "奇妙电视",
+ 		"icon_url": "http://icon.91kds.com/tb/xgqmds.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+ 		"second_url": [],
+ 		"types": "3"
+ 	},
+ 	{
+ 		"channel_id": 2453,
+ 		"channel_name": "耀才财经",
+ 		"icon_url": "http://icon.91kds.com/tb/xgyccj.jpg",
+ 		"province": "香港",
+ 		"mode": "SD",
+ 		"url": "http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8",
+ 		"second_url": [
+ 			"http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-mobie/playlist.m3u8",
+ 			"rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc",
+ 			"rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-mobie"
+ 		],
+ 		"types": "3"
+ 	}
+
+ ]
